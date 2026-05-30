@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Cherishma 👋
 
-<!--
-**Charishmaa24/Charishmaa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate
 
-Here are some ideas to get you started:
+🤖 AI Associate Intern
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- Machine Learning
+- Prompt Engineering
+
+🚀 Currently Exploring
+- LLM Applications
+- AI Agents
+- Automation Workflows
+- Software Development
+
+📂 Featured Projects
+- Employee Dashboard Project
+- Employee Management Console
+- Certifications Repository
+
+🌱 Learning
+- Agentic AI
+- Generative AI
+- Product Thinking
+
+📫 Connect With Me
+- GitHub: github.com/Charishmaa24
